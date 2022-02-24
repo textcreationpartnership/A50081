@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Microcosmography, or, Speculum mundi being a glasse for worldlings, a sermon preached at the funeral of the right worshipfull Spencer Lucy, Esq. at Charlecote, August 11, 1649 / by Christopher Massey.</title>
+            <author>Massey, Christopher, b. 1618?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50081</idno>
+            <idno type="STC">Wing M1030</idno>
+            <idno type="STC">ESTC R28813</idno>
+            <idno type="EEBO-CITATION">10763294</idno>
+            <idno type="OCLC">ocm 10763294</idno>
+            <idno type="VID">45723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1406:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Microcosmography, or, Speculum mundi being a glasse for worldlings, a sermon preached at the funeral of the right worshipfull Spencer Lucy, Esq. at Charlecote, August 11, 1649 / by Christopher Massey.</title>
+                  <author>Massey, Christopher, b. 1618?</author>
+               </titleStmt>
+               <extent>[4], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Cotes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Funeral sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45723:1"/>
+            <p>
+               <hi>Microcoſmography:</hi> OR <hi>SPEC<g ref="char:V">Ʋ</g>L<g ref="char:V">Ʋ</g>M M<g ref="char:V">Ʋ</g>NDI</hi> BEING A GLASSE FOR WORLDLINGS.</p>
+            <p>A SERMON Preached at the funerall of the Right Worſhipfull SPENCER LUCY <abbr>Eſq</abbr> at <hi>Charlecote, Auguſt</hi> 11. 1649.</p>
+            <p>By <hi>Chriſtopher Maſſey</hi> Maſter of Arts of <hi>Gonv.</hi> and <hi>Caius</hi> Colledge <hi>Cambridge.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed by RICHARD COTES <hi>Anno Dom.</hi> 1650.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:45723:2"/>
+            <pb facs="tcp:45723:2"/>
+            <head>To the Right Worſhipfull <hi>Robert Lucy</hi> 
+               <abbr>Eſq</abbr> my moſt honoured PATRON.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Am very ſenſible of the unfledgedneſſe of this Lapwing that runnes about ſo confi<g ref="char:EOLhyphen"/>dently. Bee pleaſed therefore inſtead of its ſhell, to let it have the ſhadow of ſuch a wing, the glory of ſuch a name as yours is, affixt to it; but let it goe as a Decoy to bring in ſouls. For truly ſome have been pleaſed to eſteeme theſe pieces of Glaſſe which I broke at your Royall ſeat <hi>Charl<g ref="char:EOLhyphen"/>cote,</hi> at an higher rate than to bee onely throwne out to choake Hens, or patcht to<g ref="char:EOLhyphen"/>gether only to catch Larks. But whether it be cuſtome or the importunitie of ſome that heard it, that hath got it from me, it
+<pb facs="tcp:45723:3"/>wil now undeceive thoſe that heard it not. Tis a Sea but ſo calme and cleare, that he that can ſtoope with the Country wench to ſee his foul face in fair water, may find in himſelfe, both what to waſh off, and what (with <hi>Narciſſus</hi>) to fall in Love withall.</p>
+            <p>Sir I am weary of catching ſhadowes and embracing clouds and will now en<g ref="char:EOLhyphen"/>tirely devote my ſelf to prayer for you and your noble familie, that that great God whoſe Throne is indeed a Mercie-ſeat to all that ſincerely addreſſe themſelves to it in the name of the Mediator, wil preſerve to you your inheritance in Canaan and Heaven; and ſo I humbly ſubſcribe to be ever</p>
+            <closer>
+               <signed>Your obliged Servant and faithfull Chaplaine <hi>Chriſtopher Maſſey.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:45723:3"/>
+            <head>Microcoſmography: <hi>OR, SPECVLVMMVNDI:</hi> Being a Glaſſe for Wordlings.</head>
+            <head type="sub">A SERMON preached at the Funerall of the Right Worſhipfull <hi>SPENCER LUCY,</hi> 
+               <abbr>Eſq</abbr>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>REV. 4.6.</hi>
+                  </bibl>
+                  <p>Before the throne was a ſea of Glaſſe like Cryſtall.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F I did intend to word it only (as the uſe is now a dayes, the uſe and principall, even in Doctrines and Uſes) I might eaſily ſtile the ſeven Biſhops and Churches in the three precedent Chapters, S<hi rend="sup">t</hi> 
+               <hi>Iohns</hi> Re<g ref="char:EOLhyphen"/>formed Churches, his Heptarchy, his Patriarchy: this the rather, for though in his two latter Epiſtles he is an Elder; yet in
+<pb n="2" facs="tcp:45723:4"/>his firſt a father; and, leſt hee ſhould bee miſtaken for a Lay-Elder, in this Apocalyps, a Divine. So like his embleme the ſoaring Eagle (though perhaps not ſo clearly from <hi>ver.</hi> 7.) he not only gazes on the worlds light himſelfe, but beares his Eaglets on his wings, to teach them with undazeled eye to fixe on <hi>Alpha</hi> and <hi>Omega,</hi> an ever riſing, never ſetting ſun.</p>
+            <p>But now in this fourth Chapter, he begins to diſcover in aenigmaticall Idea's of Gods decrees, the future militant Churches mournings to the worlds end.</p>
+            <p>
+               <hi>Verſ.</hi> 2, 3. A throne, not empty, but the Jaſper, Sar<g ref="char:EOLhyphen"/>dine, Emerald ſtone, the Eternall Trinity on it. <hi>verſ.</hi> 4. Four and twenty Elders enthron'd, <hi>i. e.</hi> the triumphant Church, Jewiſh, Gentile, in their lawfull Repreſentative twice twelve Founders, Patriarchs, Apoſtles. <hi>verſ.</hi> 5. God writes <hi>contra gentes,</hi> lightnings, thundrings, &amp;c. black lines. <hi>verſ.</hi> 6. A ſea, <hi>i. e.</hi> the world, in which his militant Church is toſt, that I ſay not ſhipwrackt. Re<g ref="char:EOLhyphen"/>joice yee faithfull, for though <hi>verſ.</hi> 6. your preſſures great, yet <hi>ver.</hi> 3. the great God is your judge, and your avenger, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, you are before his throne.</p>
+            <p>I intended no other diviſion for my diſcourſe before this honourable preſence, but that of ſoul and body; but the Scripture is ſo brief in this matter, ſpeaking but one word or two of the greateſt perſons Funerall, that I am forced to preſent you with theſe particulars.</p>
+            <p n="1">1. A ſhow, a ſpectacle, the world. 2. A Spectator, God: both their actings under three ſeverall diſguiſes.</p>
+            <p>The world. 1. A ſea tumultuous. Yet 2. 'tis glaſſe, quickly broken. Yet 3. like cryſtall, ſhining clear. But again although, 1. Like cryſtall, bright. Yet 2. 'tis glaſſe, brittle. 3. A Sea briniſh.</p>
+            <pb n="3" facs="tcp:45723:4"/>
+            <p>God, as on a throne, intimating in reſpect of himſelf, 1. His judgment. 2. Majeſty. 3. Eternall reſt. In reſpect of the world, 1. His power. 2. Preſence. 3. Eſſence.</p>
+            <p>See the pretty knack, the thing they call the world. 'Tis 1. a ſea, Why do we immerſe our ſelves in it? Air is mans element. 2. Glaſſe, Why build on it? Earth is mans pavement. 3. Cryſtall, its congealed Atoms, yeeld nothing but coldneſſes, hardneſſes; Fire (love) is a Chri<g ref="char:EOLhyphen"/>ſtians element. Elſe,</p>
+            <p>See 1. the power of God in judgement to condemne thee. Or 2. the Majeſty of his preſence to ſhame thee. Or 3. the eternall reſt and happineſſe of his eſſence to allure thee. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>They that goe down to the ſea in ſhips,</hi> Pſal. 107.23. <hi>they behold</hi> the great Gods works and wonders: we are ſhipt for an houre, and though it be dangerous travelling at ſea, yet the right ſpirit of our righteous Saviour with his gentle breathings, his effectuall gales will harbour us in quiet; for lambs may wade here, where elephants drown'd. The comfort is <hi>ver.</hi> 1. the doore (which the lambs well know) is open. Sweet Jeſu, we know no doore but thee: How ſhall mans beetle-cy'd body, nay eagle<g ref="char:EOLhyphen"/>cy'd ſoule pierce into heaven, but through thee? Lord open, before it be too late for fooles to enter.</p>
+            <p>Firſt, the world is the ſea <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; ſo <hi>Ribera, Bullinger, Pererius, Paraeus</hi> here; ſo Scripture (the beſt Expoſitor) <hi>Mat.</hi> 13.47. <hi>Chriſts Kingdome is like a net caſt into the ſea:</hi> where the Ship is the Church, the Sea the World, the Net the Word, the Fiſhermen Miniſters, Fiſh the Men of the world: 'Twas good fiſhing when <hi>mutus ut piſcis</hi> was in date, our fiſh will catch the fiſhermen. So the Church of <hi>England</hi> (the Catholicke Churches beſt Ex<g ref="char:EOLhyphen"/>poſitor) in her forme of Baptiſme—may ſo paſſe the
+<pb n="4" facs="tcp:45723:5"/>waves of this troubleſome world. And he that reſts not in her judgement, ſink or ſwim at his own perill bee it.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the world's a ſea; and then needs muſt it bee dangerous, where the Prince of the Air throwes downe his bluſtring ſtormes, thoſe ſhortned dayes, <hi>Mat.</hi> 24.22. will ere long leave him to his eternall night; where ſinne in ſtead of ſand to ballaſt us, is quickſands to bury us; Honour bubbles, Paſſion froth, Company waves crow<g ref="char:EOLhyphen"/>ding on one another, Miſery the ebbe, Succeſſes the tide, a ſtream (however Trowts beare up againſt it) againſt which no ſtriving. Our teares, as ſoone as borne progno<g ref="char:EOLhyphen"/>ſticate its briniſhneſſe. Our life being teares for miſery, at the beſt for ſin.</p>
+            <p>'Tis a ſea, ſee this 1. in its rage, <hi>Pſalm.</hi> 93. &amp; 98. the flouds have voices and hands, ſo like the wicked world, cry down with it, and put forth ſacrilegious hands to pull in the poore ſhip the Church; or under pretence of having it to the dock, pare it, and patch it, till it have as little of the ancient ſhip in it as that of the <hi>Athenians. Chriſtiani tollantur</hi> has been the voague of all ages, <hi>deci<g ref="char:EOLhyphen"/>mentur,</hi> let them bee tith'd; nay what is worſe, let no tithes be paid. Theſe worldly ones are properly the ſea, <hi>Eſay</hi> 57.20. a boiling ſea, their heart caſts forth mire, dirt, ſcum: Murders, thefts, &amp;c. <hi>Mat.</hi> 15.19. Oh how it troubles <hi>David, Pſal.</hi> 73. to ſee how the fiſh of this ſea rant it, theſe proſper. They are not curſt, that dwell in the ſea, only the Earth, Aire, <hi>Gen.</hi> 3. nor are they ſuffe<g ref="char:EOLhyphen"/>rers in that great drowning time, <hi>Gen.</hi> 7. theſe tyrannicall winds and waves make for them. I may in a word decide thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 1. That there be Men-fiſh, Tri<g ref="char:EOLhyphen"/>tons, Nereides, Syrenes. 2. That the earth and ſea (joy and ſorrow, good and bad) make up one globe. Yet 3. that there is more ſea than land. And 4. that the ſea is higher than the dry land. If you ſee,</p>
+            <pb n="5" facs="tcp:45723:5"/>
+            <p n="2">2. Depth, for here you ſee Gods footſteps are not known, <hi>Pſal.</hi> 77.19. no tract of God: his diſcipline in the Church. His faithfull muſt take notice of ſin, and of the puniſhment of ſin, and fear to ſin. His <hi>Iſrael</hi> muſt make bricks, whileſt their <hi>Nimrods, Pharaohs</hi> perpetuate, their names in Babels, Pyramids. St. <hi>Iohn</hi> himſelf like an hoary apple, having ſcaped the locuſt, the wind and ſtorm, the pluckers hand, hung neer an hundred years old on the tree of life, yet then unſeaſonably enough, muſt be coddled in a caldron of oil becauſe Chriſtians derive their pedegree from Chriſt, and Chriſt his from, his ſpiritu<g ref="char:EOLhyphen"/>all chriſm. O when thou comſt to Heaven, thou ſhalt know how <hi>Domitians</hi> brazen Sea hurt him not, onely prov'd a Bath to renew him: then thou ſhalt clearly ſee, why <hi>Adam</hi> falls, why <hi>Cain</hi> kills <hi>Abel, Apryes ſeremy, Eſay</hi> ſawn aſunder by <hi>Manaſſes.</hi> Then thou ſhalt plainly read what the four Beaſts be. What and whoſe that ma<g ref="char:EOLhyphen"/>zing knot of figures, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 666. What <hi>God</hi> and <hi>Magog,</hi> what <hi>Harmageddon.</hi> Be not raſh in judging. St. <hi>Paul</hi> made but a glance as it were at that future light, but had he not borrowed a thorn from his Saviours Crown, much Re<g ref="char:EOLhyphen"/>velation had made him mad. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> tis deep.</p>
+            <p n="3">3. Inconſtant; wavering ebbs flows, now calm, now ſtorm, ſo inconſiſtent the great World. So its compendi<g ref="char:EOLhyphen"/>um, <hi>Iob</hi> 14. never continues in one ſtay, for 2 <hi>Sam.</hi> 14.14. all ſpill and glide away like water, in continuall haſt to fall into this Sea; No Planet more haſtens Weſtward then this wandring Tabernacle of Duſt, this ſod of earth to its center, this rivolet to its Ocean. He findes a fall and a ſpring tide in his veins, till as <hi>Pſal.</hi> 2.14. he is powred out clearly like water, not a jot ſticks to the veſſell: alas, What advantage has that water that is exalted above the Heavens? but to ſee his greater ruin from an higher place.
+<pb n="6" facs="tcp:45723:6"/>Thus in this world, <hi>Pſal.</hi> 107.26. Mounts up to heaven, then ſodainly drops down to hell, (the Poet owes per<g ref="char:EOLhyphen"/>chance to the Prophet, <hi>Iamjam tacturus, &amp;c.</hi>) now all's ſerene and wee miſtake it for heaven; then Wars, Fa<g ref="char:EOLhyphen"/>mines, Plagues, in a neceſſary chain, nay the Plague of all plagues, civill Wars, muddy us, and hell ſeems not more ſooty, more black, more divelliſh; thus in States. Now repent, then juſtified, then ſanctified, in a neceſſary con<g ref="char:EOLhyphen"/>catenation too; then in heaven, but that a great billow, ſome ſinfull ſtumble, ſlip, fall rebounds us to our earth, glues our ſouls to the pavement; then in hell. Thus in Church, temporall, ſpirituall ſtate in this world is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, mutable.</p>
+            <p>Yet though 1. Never ſo variable, ſo long as we ſix not our Ark any where but on <hi>Ararat,</hi> ſo long as we ſit not down with our Tabernacle till we come to <hi>Shiloh;</hi> ſo long as with thoſe celeſtiall bodies we ſail on fixed poles, only making the great God, not this little earth our center, we ſhall be bleſſed at leaſt in our Haven. Our ca<g ref="char:EOLhyphen"/>ſtles on earth may ſink in their ruines, our caſtles on the Sea in their ſeditious waves, our caſtles ith' air in our gid<g ref="char:EOLhyphen"/>dy fancies, we have a caſtle higher than Earth, Sea, Fancy: the Lord is our Caſtle, <hi>Pſal.</hi> 31.4.</p>
+            <p n="2">2. Though the Sea in Dogdayes, (ſuch dayes as theſe) is thicker and darker, no wind to hinder the Suns-ſalting-power, yet is it ſafer ſwimming in theſe deeps than in ſhallows, in ſalt waters than in ſweet. Nay <hi>Iſrael</hi> is ſafer in the red Sea than on land: nor are fiſhes ſalt becauſe in the Sea, <hi>Abraham, Lot</hi> not tainted in the dead Sea, Gods children make all waters ſweet. So as <hi>Elias,</hi> 2 <hi>King.</hi> 2.20, 21. by throwing in ſalt: a ſalt to which I may truely apply <hi>Homers</hi> Epither <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and which they having with<g ref="char:EOLhyphen"/>in themſelves <hi>Mark.</hi> 9.5. (faith) reliſh all things, be they
+<pb n="7" facs="tcp:45723:6"/>never ſo bitter and diſtaſtfull to humane ſenſe; and alſo give the right ſeaſoning and Hogoo of Gods palat and mans: and hence is that, they ſay, there are ſweet Fountains in the deepeſt ſalteſt Seas. Nay;</p>
+            <p n="3">3. Though never ſo raging and boiſtrous, there is no Sea, but, he that had ſounded all of them ſayes, 1 <hi>Cor.</hi> 10.13. is navigable, nay profitable, for Gods Halcyons can breed here. Onely as they that travell through thoſe Tides of Sand in the <hi>Arabian</hi> deſerts doe ſhelter them<g ref="char:EOLhyphen"/>ſelves in Arks, or Caſtles on Camels backs, make thee an Ark according to Gods command, and thou ſhalt ſail in ſafety in a deluge; nay thy child with <hi>Moſes</hi> in the Ark of Gods covenant thou ſhalt find in ſafety. Oh if like a fly thou cabin thy ſelf in ſome little crevice of this great ſhip thou wilt come to the Haven in Peace. Be the red Sea nere ſo cold, be the Furnace never ſo hot, both ſtand up like a wall to <hi>Iſrael.</hi> Ever ſince Chriſt the true Hal<g ref="char:EOLhyphen"/>cyon was born, here was peace, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Secondly, This Sea is Glaſſie, every fall, every knock, every claſh breaks it. Whether it be that microco<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me, man, witneſſe thoſe unperceiv'd needles from the <hi>Italian</hi> bow, yet where they are not cunning enough to enter, grief, envy, malice, more ſubtill engines will daſh him to pieces: or whether thoſe great worlds, the world of pleaſure, the world of profit, the world of honour, ſuch they are. Ice not more ſlippery, Glaſſe not more brittle.</p>
+            <p n="1">1. Such in reſpect of their chief matter, ſand, aſhes: their parts as impoſſibly coherent into ropes, and yeelds the fooliſh ſoul a foundation, <hi>Mat.</hi> 7.27. as inconſiſtent.</p>
+            <p n="2">2. In their effects as dangerous to their intrails. So taken inwardly do their hard angles grate and pierce the inward man. Here ſwelling it with pride, there inflaming it with
+<pb n="8" facs="tcp:45723:7"/>thoſe dropſie deſires of having and in a word ſpoiling the bowells of mercy. Yet;</p>
+            <p n="3">3. Such in reſpect of the continuity of their parts; ſo that a heart made up of theſe worlds, is indeed become glaſſie, yeelding to nothing without breaking, but the Diamonds points, the quickſilver to which I compare the Word and Spirit of God) that bores through me<g ref="char:EOLhyphen"/>talls, gold, ſilver, &amp;c. or ſtone; enters not a worldly heart. All the dews of Gods graces ſpend themſelves like Hony-falls on the Dead Sea, as little fruit as notice of them. The beams of his Spirit, fall as on a Sea of glaſſe rebounded in his face: and like glaſſe only ductile in the fire; the Lord can do no good on this world till he bring it into the fire. The water that he manifeſted his anger in to the old world, or the water that he ſhows his mercy in, to the preſent, Baptiſm, or the Baptiſm of tears no good. Nay not culinary, ordinary fires, he muſt drop downe the Element, or <hi>Mat.</hi> 24.27. come like lightning ſo ſwift, ſo ſodain, ſo conſuming, yet though never ſo hard, it is but b<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tle.</p>
+            <p>'Tis a ſad truth, what many melancholly people have fancyed, that we are glaſſe: not that Chriſtian Religion is only a fit of fancy or melancholy, O there are ſuch tranſcendent enjoyings in God, ſuch joyings in the exerciſe of the habits of grace and vertue beyond the dreamed muſick of <hi>Ariſtotles</hi> eleaven morall Cryſtall ſpheares which make the proudeſt, calmeſt ſmiles this world af<g ref="char:EOLhyphen"/>fords madneſſe; but becauſe this great treaſure, this ſoul preſevre is in gallipots or courſe green glaſſes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Cor.</hi> 4.7. earthen ſhells. Alas that wee ſo admire the ſhell, that we feed not on the meat. Alas that weſo gaze on the glaſſe that we regard not the face that it repreſents. Alas that with the filly <hi>Indians,</hi> we ſo are ta<g ref="char:EOLhyphen"/>ken
+<pb n="9" facs="tcp:45723:7"/>up with this glaſſe, that the Merchant <hi>Rev.</hi> 3.18. that ſells gold (grace) has no cuſtome: though the price of his gold, be only to take it while he offers it, and put it to uſe. This Sea is a falſe glaſſe; like thoſe falſe glaſſes that are contri<g ref="char:EOLhyphen"/>ved, ſo, as to repreſent all faces, much unlike the naturall. Such was that mirrour of <hi>Smyrna</hi> which ſhow'd ſuch mutability in the face, that a fair one might ſhow ugly; and an uggly one fair. Think now what a poor portion thou leaveſt thy child, though never ſo fair an eſtate, a cupboard of glaſſes, a ſhelfe of gallipots; All worldly eſtates and conditions are glaſſie. How glaſſie that Sea of <hi>Rome,</hi> that once was marble? How brittle <hi>Jacobs</hi> ſtone, though it will prove marble? Glaſſie e<g ref="char:EOLhyphen"/>ven the keys of our Church, though one ſhould have eſteem<g ref="char:EOLhyphen"/>ed them more durable then Iron. Glaſſie our Biſhop Seas, though pure Venice break ere hold poyſon, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Oh then let us go down to the Glaſſemans houſe as <hi>Ier.</hi> 18. you ſhall not only ſee mans ſpirit impriſoned in a glaſſe, but ſayes St. <hi>Paul</hi> 1 <hi>Cor.</hi> 13.12. &amp; 2 <hi>Cor.</hi> 3. <hi>ult.</hi> if you will ſee God in this dark time of our earthly pilgrimage, you muſt ſee him in a glaſſe; not that you ſhould beleeve the eternall Spirit is impriſoned in a glaſſe too, (as ſome black Artiſts, or rather cheating Hocuſpocuſſes, ſeem to promiſe you) but twice he calls you, to ſee him in a glaſſe, that you might not only as men ſee him in the creature, but as Chriſtian men, in the Word: as for his creatures, the more clear they are, the more lively they repreſent him; yet ſee again, the more clear they are, the more glaſſie and brittle they are: ſo that as it is no wonder to ſee man, the nobler piece of Gods creature, broken, much leſſe need we ſtrange to ſee the nobleſt of men, make ſuch haſt to their unripe fall, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Yet ſtay, the world's not the worſe for being ſo glaſſie; if ſo ſlippery, ſo brittle, 'twill teach us not to ſtand on it, not to rely on it; Nor is the little world the worſe; Oh it will
+<pb n="10" facs="tcp:45723:8"/>make us very carefull, that we do not fall into ſin with pre<g ref="char:EOLhyphen"/>paration: into the grave unprepared. Nay, nay, ever ſince I knew <hi>Pſal.</hi> 51. that, Gods Goſpel-Sacrifice was a broken heart, I can't think but that we are the better for being ſo ea<g ref="char:EOLhyphen"/>ſily broken. <hi>Rome</hi> only can ſhow the man, (however <hi>Tiberius</hi> is reported to have put him to death) that makes glaſſe fle<g ref="char:EOLhyphen"/>xile, or an heart that is only attrite, by the turn of a key, con<g ref="char:EOLhyphen"/>trite. Lord give us breaking hearts: Which though 1. in their nature, they be not feyſable with good, though 2. in their effects they be dangerous, not being well broken: Yet 3. by the power of thy Word and Spirit they may be<g ref="char:EOLhyphen"/>come malleable, and conſequently an acceptable reaſonable ſacrifice to thee.</p>
+            <p>Thirdly, this Sea is like Cryſtall, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Where if I may beg leave to ſpeak with the Vulgar (as the uſe is, with thoſe that interpret <hi>Gen.</hi> 1.16. and ſuch like places of Scrip<g ref="char:EOLhyphen"/>ture) I ſhall not need to quearee after its lapidificall principle, but ſay with <hi>Scaliger</hi> 'tis a white pellucid ſtone concreted of ice, or with the Etymologer, tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, wa<g ref="char:EOLhyphen"/>ter hardned by extream cold. And ſo here again diſcovers.</p>
+            <p n="1">1. The worlds and worldings temper; cold and congeal<g ref="char:EOLhyphen"/>ed by nature, and ſo buryed in earth, that heaven can't thaw it. <hi>Pharaohs</hi> temper, a cryſtallized heart. The furnace that melts glaſſe findes this a Salamander. Yea,</p>
+            <p n="2">2. Appears white, clear and clean; you ſhall ſee his inſide ſo clear, his outſide ſo clean, that you will find it a very hard province to write ſlut in a <hi>Phariſees</hi> cup, very hard by the eye to diſcern his ſowre leaven, from the Saints lump, but you may eaſily ſmell him out: for <hi>Matth.</hi> 23.27. they are but whi<g ref="char:EOLhyphen"/>ted Sepulchers. And,</p>
+            <p n="3">3. There's the miſchief on't, they are tranſparent to Gods eyes, thence their ſtincking rottenneſſe within, though they can gull and cheat mans eyes, yet <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they are pel<g ref="char:EOLhyphen"/>lucid,
+<pb n="11" facs="tcp:45723:8"/>as clear as Cryſtall to the all ſearching eyes of the great God. Oh then,</p>
+            <p n="1">1. Do not brag thy Cryſtall-eyes; but <hi>Leahs</hi> eyes, tender, ſtill dropping, ſtill running with cryſtall tears. Brag not the ranting, the cryſtallized heart: no croſſe, no loſſe mollifie it; no Balm, no anointings of Gods Spirit ſupple it. Conſider this ye that have forgotten God, <hi>Pſal.</hi> 50.22. Alas, remem<g ref="char:EOLhyphen"/>ber God is a Lyon as well as a Lambe, leſt hee tear you to pieces, and all your forces can't deliver you: if he can't hew his paſſage through your mountains with intreating tears, he will do it with vinegar. Pray that he will change this ſtone-heart, for a fleſh-heart, <hi>Ezek.</hi> 36.26. that he would ſend forth his cryſtall (as the Lxx. read <hi>Pſal.</hi> 147.17) like mor<g ref="char:EOLhyphen"/>ſels, all in pieces.</p>
+            <p n="2">2. Boaſt not thy clearneſs of knowledge: ſuch a light as <hi>Lucians</hi> men in the Moon have, and a thing they call the Spi<g ref="char:EOLhyphen"/>rit, which they ever hold forth as the only Gorgon to ſtun reaſon withall: Alas, how dim ſighted, how dark in this world we are! glad the quickeſt to uſe ſpectacles; 1 <hi>Cor.</hi> 13.12. and then ſee but riddles too, even then when thou com'ſt face to face, thou'lt hide thine eyes with the higheſt Seraphims, <hi>Eſa.</hi> 6.2. and for all that ſo much talkt of glaſſe of the creatures, or matutine knowledge of Angels, thou wilt finde thy ſelfe unable to faſhion Gods depths, to comprehend an incompre<g ref="char:EOLhyphen"/>henſible eſſence, God as in himſelf; though thou doſt cer<g ref="char:EOLhyphen"/>tainly find inconceivable happineſſe in him, as he is towards thee. Sprirituall pride, is <hi>medicorum pudor,</hi> the ſpirituall Phy<g ref="char:EOLhyphen"/>ſicians Gout. The Kings Evill, none but the King of Heaven can cure it. Silly animals, what doe they doe but ſpoil their wings, the fly that ſo giddily flaps the flame, or the bird that ſo ſecurely built her neſt in the circle of the Sun. But ſo un<g ref="char:EOLhyphen"/>ſatisfied is the eye with ſeeing, or the ears with hearing: whilſt all true light, all true revelation, throwes us downe with
+<pb n="12" facs="tcp:45723:9"/>
+               <hi>Paul, Act.</hi> 9.4. humbles us, blindes us, makes us in appearance not ſeeing, a while here, that we may ſee and live for ever.</p>
+            <p>Boaſt not the whiteneſſe, cleerneſſe; leſt, ſeeing thou art but cryſtall, thou haſt, not that white ſtone, <hi>Rev.</hi> 2.17. Gods mercifull acquittance of thy wofull ſin; for although thou thinkſt thou canſt travell towards heaven, with all thy earth<g ref="char:EOLhyphen"/>ly bunches as faſt as the <hi>Indian</hi> camels, can towards <hi>Canaan,</hi> yet the needles eye requires <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Luk.</hi> 13.24. wreſtle to enter in, 'twill be worth your beſt indeavours. Though now thou appear to thy ſelf and others as cleer as cryſtall, yet at that clear light of that great fire, thou wilt finde many ſtrawes, many cobwebs, much foulneſs; and plainly read what ſecretly thou writſt with a Lemmon, what counter<g ref="char:EOLhyphen"/>feitingly thou writſt with an Onion. Theſe Temples of <hi>Egypt</hi> will ſhow their Crocodiles, Rats, Onions, at our Sa<g ref="char:EOLhyphen"/>viours ſecond coming, more than at his firſt. For,</p>
+            <p n="3">3. They are all cryſtall, moſt tranſparent to Gods eyes: their-windows are in their tops; glaſſe towards heaven; the all-ſeeing God diſcovers thoſe leeches, envy, malice, crawling up and down in their glaſſes. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. So then we muſt fall on to the ſecond Generall,</p>
+            <p>God the Spectator, before whoſe throne the world acts; only you muſt not conceive him to be an idle care<g ref="char:EOLhyphen"/>leſs Spectator. You ſee his Throne placed on theſe three particulars, ſo much as concernes the Spectacle the world. 1. His Power. 2. His Preſence. 3. Eſſence. That is, he ſits o<g ref="char:EOLhyphen"/>ver all the world, 1. as an omnipotent Judge; 2. as an om<g ref="char:EOLhyphen"/>niſcient King; 3. as an omniprovident cauſe.</p>
+            <p n="1">1. His power, hee makes ſcorpions, rabbets, frogs, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, locuſts, bees, piſmires, lice, devour ſinfull nations. The Sun that great gyant, that had not ſin'd, ſwounded at Chriſts death to ſee his Creator in that deſpiſed humility, oh how wil he darken and die at that generall Sizes, when he ſhal ſee him
+<pb n="13" facs="tcp:45723:9"/>in that glory of his power! <hi>David, Pſal.</hi> 14.17. for lack a little of the preſence and countenance of his gracious com<g ref="char:EOLhyphen"/>forter, feels his bones within him jumble together like ar<g ref="char:EOLhyphen"/>rowes all in a Quiver. So <hi>Hezekiah, Eſay</hi> 38.13. and that for a little check: What, think you, would theſe Kings have done, if the omnipotent God ſhould have mated them? His arm is not ſhortned, it is as able to help in theſe hopeleſs days. The Gentiles <hi>Atlas</hi> may faint, the Jews <hi>Samſon</hi> may fail, but the Chriſtians <hi>Ieſus,</hi> the truly victorious <hi>Samſon</hi> will never fail. No ſnipping his golden lockes, the beames of his free Spirit: What bands will you get to chain him up with, that rents rocks aſwell as vailes? What engine to bore out his eyes, flames of fire, that dazle the Seraphim aſwell as the ſun? <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="2">2. His preſence, all things are naked, preſent to him, dark<g ref="char:EOLhyphen"/>neſſe as well as light, the things that are paſt, and the things that are to come to paſſe, to him they are alike viſible. Hee needs not others eyes to ſee withall, nor the help of glaſſes to ſtrengthen his ſight withall; it may befit <hi>Nero</hi> to behold his fencers at their exerciſes, through an emerald; wearineſſe, dimneſſe like cobwebs, will quickly hang in our windowes, and darken us, but God ſees through cryſtall: What, ſhall not he that made the eye, ſee? He needs no <hi>Iacobs</hi> ſtaffe, not <hi>Galilaeus</hi> his <hi>teleſcopium;</hi> ſees all: Shall not he that made the care heare? he needs no whiſpering places; heares all: Shall not he that made mans ſoul underſtand? needs not diſcourſe knowes all intuitively. 'Tis true indeed, <hi>occaecatur, at prae amo<g ref="char:EOLhyphen"/>re,</hi> he ſees not ſometimes, but it is his love that hides us; hee ſeems deafe ſometimes, but it is <hi>prae irâ,</hi> becauſe he is of<g ref="char:EOLhyphen"/>fended with us; he ſeems ignorant ſometimes, but it is <hi>prae juſtitiâ,</hi> becauſe hee knowes not ſin, how to ſin, or ſinners. Go, go ſhade thy Arbour, ſo that the lynx can't dart a beam through its leaves: make thy cloſet ſo cloſe, that the day
+<pb n="14" facs="tcp:45723:10"/>light can't peep in: dig thy vault ſo under ground, that it will damp a flaſh of lightning: yet there where the quickeſt ſight is baffled, where the light is bolted out a doores, where the lightning ſtands at a dare, even there the all-ſearching eyes of the Lord are. Such, juſt ſuch an arbour, had <hi>Adam</hi> ſeeking ſhelter under his fig-leaves, <hi>Ionas</hi> under his gourd, <hi>Nathaniel</hi> under his fig-tree; ſo, ſo cloſe did <hi>Saul</hi> thinke himſelfe under the ſtuffe, <hi>Achan</hi> his wedge under ground, <hi>Ionas</hi> in the ſhip; ſo deep was <hi>Darius</hi> his den, in which they buried <hi>Daniel, Malchiahs</hi> dungeon, in which <hi>Ieremy, Ioſephs</hi> ſepulcher in which <hi>Ieſus,</hi> or ſuch a vault was in <hi>Abſolons</hi> heart, when hee would ſteal the peoples heart, in <hi>Sauls</hi> religion to ſpare the rich, in <hi>Iudas</hi> his bag, when he would ſpare for the poore: all are cryſtalline, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p n="3">3. Of his eſſence: giving all things, being, well being, all having ſupport from this throne. Independents excluded from this throne. The whole creation, being linkt to it by a chaine of cauſes in an harmonious ſubordination, hang on it, as in <hi>eſſe,</hi> ſo in <hi>conſervari;</hi> he concreates and conſerves even the ſouls of the ſons of men; rules all, does all, cauſally, cardi<g ref="char:EOLhyphen"/>nally, totally. What is nature but Gods will? What is fate but his word? What is that ſo much adored Fortune, but his wheel to wrack us, to confeſſe the mutability of mortal man? His wiſdome <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in this great muſick ſchoole, the hea<g ref="char:EOLhyphen"/>vens about him dancing and ſinging <hi>Te Deum;</hi> the glaſſy world of men like the harp in his hand, where the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the ſtring that gives the higheſt ſound, is the quire of bleſſed ſpi<g ref="char:EOLhyphen"/>rits, inhabitants of heaven; the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the ſtring that gives the loweſt ſound, is the earth and its inhabitants, where if hee windes ſome ſtrings higher, or ſlackens others, it is ſurely to make muſick to his own glory. But what talk I of muſick or muſick ſchoole? wee are not come to <hi>Platoes</hi> Creed yet, that God is the worlds waggoner, his waggon running on the
+<pb n="15" facs="tcp:45723:10"/>four elements, as on four wheels. Alas! the profeſſors of Chri<g ref="char:EOLhyphen"/>ſtianity are turned infidels. O ſee, it is Chriſts Creed, <hi>Mat.</hi> 4.4. man lives not by bread alone, but by his word that ſancti<g ref="char:EOLhyphen"/>fies it: Shall Graſhoppers live by dew, and ſhall not I by the word of the Lord? See, it is the Angels Creed, <hi>Luk.</hi> 37. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, every word, that is, every thing is poſſible with the Lord. Nay, ſee it is the Devills Creed, <hi>Mat.</hi> 43. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſpeak, <hi>i.e.</hi> make theſe ſtones, &amp;c. becauſe he does what he ſpeaks, as eaſily as we ſpeak what we would do, &amp; without him nothing comes to paſſe, all things by his providence, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>The throne is mentioned no leſſe than 28. times in this booke, oh ſure it is to put us in mind ſtill to have an eye to it, as encouraged by his power, as awed by his preſence, as gui<g ref="char:EOLhyphen"/>ded by his providence. This world, the ſea, the glaſſe, the cry<g ref="char:EOLhyphen"/>ſtall, vaniſhes away. But the Spectator, God, is ever; the Fa<g ref="char:EOLhyphen"/>ther is an Ocean of mercy, the Son a true Glaſſe reflecting, repreſenting ſuch a Father, the Holy Spirit the true Cryſtal, through which wee ſee moſt clearly both the Father, and the Son.</p>
+            <p>So that though 1. here be a ſea of miſery, yet know the ſea of mercy loves us, cares for us. Though 2. our nature bee very glaſſy, yet the Son makes it ſtrong by uniting it to him. Though 3. we are full of blindneſſes, yet the ſpirit of Chriſt is the true Cryſtall, ſhowing us all things. Wherefore as I have heard ſpoken, what the ſea waſhes from the Low-coun<g ref="char:EOLhyphen"/>treys, it leaves in our Eaſterne parts, ſo may I ſay here, what we have have loſt in the firſt part, we may find in the ſecond part, God reſtores ſupplyes one way or other, what ever the world robs us of. His Power, Preſence, Providence is for us. 1. Cryſtal ſees us as a potent Pilot to ſteer us to a ſafe harbor. 2. Glaſſy, yet ſtrengthned by his comfortable preſence. So that 3. though the ſea rage againſt us; yet there's not a wave daſhes on us, without his Providence, he is not a ſleepy Spe<g ref="char:EOLhyphen"/>ctator. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <pb n="16" facs="tcp:45723:11"/>
+            <p>Have you heard how it is a ſea of Glaſs? of Glaſs, becauſe he has ſet all its roares their bounds, which they cannot paſs. Hence our Saviour, <hi>Mat.</hi> 26.39. not only intimates to us in what kind theſe briniſh waters are ſprinkled on us; that is, in kindneſs, they come from God, <hi>i. e.</hi> our father; but alſo the meaſure, but a cup, a glaſs of teares, they are proportioned to us; 'tis but thy cup, 'tis but my cup, drinke it off; make not a fire, not a god of thy Croſs, but carry it patiently to thy <hi>Golgatha,</hi> and make it a cup of ſalvation. For here is matter of true conſolation, the Devill cannot tempt the firſt or the ſecond <hi>Adam,</hi> but in Gods word, and he that holds faſt that word of truth cannot be deceived. He cannot make one <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> without our God, <hi>Exod.</hi> 8. nor hurt an Oxe or an Aſs till impowered, <hi>Iob.</hi> 1. not drowne that unclean beaſt of the more unclean <hi>Gergeſens, Mat.</hi> 8. not plucke a briſtle from the Hogs back, as the learnedſt Father expreſses it, without our God.</p>
+            <p>Yet leſt we go too faſt, I muſt beg you to take this along with you; that as there is not a ſparrow falls to ground with<g ref="char:EOLhyphen"/>out him, <hi>Mat.</hi> 10.29. ſo not an idle word, <hi>Mat.</hi> 12.36. Does God, think you, take ſuch care of hogs, of ſparrowes? ſure he rather intimates what care hee hath of us, whoſe providence reaches to ſenſitive creatures: Oh how canſt thou be ſo ſwi<g ref="char:EOLhyphen"/>niſh, to bemire thy reaſonable ſoule in thoſe ſtinking ſinks, which even beaſts do loath? How canſt thou hope an haire from thine head ſhould not periſh, when thy ſinnes are more than the hairs of thine head for number, and for faſhion ſake leſs cut off.</p>
+            <p>O do but view thy ſelf a little in this glaſs, and dreſs thy ſelf accordingly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. How dar'ſt thou ſin, when as the Lord has a glaſs, a thing which that moſt eloquent Ora<g ref="char:EOLhyphen"/>tor wiſht for) in every mans breaſt, trying, ſearching, judg<g ref="char:EOLhyphen"/>ing, hearts and reins? O rather ſince thou art glaſs, bee like
+<pb n="17" facs="tcp:45723:11"/>that in theſe windowes, fight againſt the ſtormes of paſſions; fight them all, all the ſtrong holds of ſin, of ſatan, of thine own reaſon; but let in light, true lights, faith, love, &amp;c. And like thoſe Harpers, <hi>Rev.</hi> 15.2. ſtand on this ſea of glaſſe, de<g ref="char:EOLhyphen"/>ſpiſe what is below your high birth, Gods off-spring, trample all the things of this world under foot, that as St. <hi>Paul, Rom.</hi> 8.38. we may in all things be more then conquerors, even in this life; more! How can that be? yes, becauſe we ſhall never be aſhamed of our victory through him that loved us, wee ſhall <hi>parta tueri,</hi> no man ſhall pluck us out of his hand. Yet know that to conquer is not to keep one commandement (as the uſe is now a dayes) cry up the fourth commandement, and 'tis no matter what becomes of the fifth, ſixth, ſeventh, eight, &amp;c. O let not ſin break in at one commandement! if once you give it but a little leake, and take no care to ſtop it, you call your ſhip in queſtion. For ſin is more dangerous then a <hi>Remora,</hi> it not only ſtayes your progreſſe in grace (though it be but ſmall) as an externall agent, but weakens grace, as an enemy within, as a <hi>Torpedo,</hi> benums the ſoul, and ſenſeleſly ſinkes it.</p>
+            <p>Me thinks I ſee a ſoul at the generall Reſurrection, going to aſsay its new clothes, with what ſqueamiſh horror it beholds its former duſt. Is this that ſea that was ſo flouriſhing, ſo green in mine eyes, that I forſooke the ocean of mercy that ran ſoftly, for? Is this that brittle and weak glaſs that I had thought Gods free ſpirit had been coopt up in? Is this that glaſs that I lookt into more then the perfect law of liberty? Is this that Cryſtall that I prefer'd before the true loadſtone that pulled me ſo kindly, ſo ſtrongly towards him? How dark now is this ſhel that made ſuch a glittering ſhow in the dark? How were mine eyes deceived with that which ſeemed its proper colour? How periſhable was my fancied immortality?</p>
+            <p>Alas! when death, pale chilly death comes crawling down
+<pb n="18" facs="tcp:45723:12"/>thy ſnowy Alpes, drilling down thy hoary hill, when thou beginneſt to feel him at thy gates beſieging thee, puls up now thy palliſado, now is in thy outward works, nay now in thy ſuburbs, has taken thy ſenſes, thy eyes dimme, hearing dull, taſting done, nay is taking a limb of thee, thy feet cold; How will thy heart beat up a march into another world? How wilt thou ſhrug, groan? How wilt thou hope that this laſt minute ſhall be accepted, who haſt not ſpent one day truly in Gods ſervice all thy life long? What is now left thee, but thoſe un<g ref="char:EOLhyphen"/>utterable prayers of the ſpirit, ſighes, groanes, if then accep<g ref="char:EOLhyphen"/>table? For there is a time when God is ſtone, as you have ſeen from <hi>ver.</hi> 3. Thou think'ſt him a father, and he is Jaſper; thou thinkſt to find him a brother, &amp; he is Sardin; thou doubtſt not to find him a comforter, but he proves an Emerald. Yet pray, thou art in the glaſs houſe before the throne. Nay pray, <hi>Heb.</hi> 4.16. with all liberty of ſpeaking, for he will be bread to his children, <hi>Luk.</hi> 11.11. and not ſtone, he will be found by ſuch as ſeek him in the acceptable opportunities: and though, <hi>Rev.</hi> 20.11. his throne be a great one, to ſhow his power, majeſty, providence; yet it is a white one, to ſhow his meekneſs, mercy: and that this throne is a mercy ſeat, was re<g ref="char:EOLhyphen"/>vealed, although but vailed, <hi>Exod.</hi> 25.22. ſtanding upon the arke, trampling as it were the law under feet. After ſome ſi<g ref="char:EOLhyphen"/>lence of his, after ſome tryall of us, after much rage of the world, and the worlds prince, comes <hi>Tace, obmuteſce;</hi> ſo that though he lets ſorrow flow in full tides ore-night, yet it ebbs in the morning. However, I beleeve he can make iron, ſwim. I beleeve, it he throw me into the ſea with <hi>Ionas,</hi> hee will pro<g ref="char:EOLhyphen"/>vide me a fiſhes belly, for my ſhip or coffin. Hee that counts of his body, but as of his ſouls priſon, may eaſily rejoice when the Lord ſhal be pleaſed to ſnap this frail glaſs a pieces, to rench open theſe priſon doores, and give us footing in a more laſting world.</p>
+            <pb n="19" facs="tcp:45723:12"/>
+            <p>That bad ſpirit, <hi>Mat.</hi> 4.8. was but the goods ſpirits Ape, who alſo lifts us aloft to ſee this glaſſy worlds glory. Only the Devill drawes a curtaine before its glaſſineſſe, its fading<g ref="char:EOLhyphen"/>neſs. But ſee here, as plainly as in <hi>Archimedes</hi> his ſpheare of glaſs, how ſleepily, how dully, the earth and its adherents be fixt; whilſt the heavens and heavenly things are wearileſs, reſtleſs in declaring Gods glory: ſee plainly mans life (which is like a thread ſpun from the true diſtaffe of Gods decrees, though with many turnings and windings) as the Scripture elſewhere compares it, like to a viſage in a glaſs. O ſince this world is ſo brittle that wee cannot carry it up to heaven, it muſt be crumbled to pieces, let us bring downe heaven on earth, and take it by force. To do this we muſt not only have our head (by faith in Chriſt) in another world, but with that great Mathematitian our footing too (our converſation.)</p>
+            <p>To this purpoſe I hope it may be, if I preſent you with a<g ref="char:EOLhyphen"/>nother world, though a Microcoſm, a little one, diſgus'd now under thoſe blacks, and he, 1. a ſea, a man of ſorrowes, or a ſea of troubles. 2. Yet glaſsy, a mortall man, there's an end of all perturbations. Yet 3. Cryſtall, he was a Chriſtian, an immortall man. For though 1. like a ſea he had his ebbs, his flowes, yet he had his immenſities, his depths too. Though 2. he was glaſsy, being made up of ſuch a ſandy, duſty princi<g ref="char:EOLhyphen"/>ple, yet 3. he was Cryſtal; ennobled with ſo clear knowledges, ſo perſpicuous excellencies.</p>
+            <p>Yet for variety ſake, bee pleaſed to take with mee another method, another way to the ſame City. And 1. the ſame great God, creator and preſerver of all things (and more e<g ref="char:EOLhyphen"/>ſpecially of man) being placed in his throne of power, pre<g ref="char:EOLhyphen"/>ſence, eſsence: Let us 2. view this narrow ſea, this little world brought on the ſtage, in his ſeverall actings. Many very emi<g ref="char:EOLhyphen"/>nent men in the Church of God, have compared the life of man to a Play. So does St. <hi>Pauls</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 1 <hi>Cor.</hi> 4.9.
+<pb n="20" facs="tcp:45723:13"/>his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Heb.</hi> 10.33. ſeem to allow it, and allude to it. Expoſitors find ſuch drames, ſuch interlocutors, ſuch chores in the <hi>Canticles,</hi> and even in this Apocalyps.</p>
+            <p>I am ſure, here are ſome in this honourable preſence do ve<g ref="char:EOLhyphen"/>ry well remember the time when he ſpake his Prologue (as all do at their entrance) in teares, which though not divine, yet divining the future briniſhneſs of this troubleſome ſea.</p>
+            <p>His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—but here I muſt be ſilent, leſt I revive that ocean of teares, that neer nine yeers ſince ſeemed to drown'd his countrey aſwell as his family, or thoſe laſt years torrents which heaven and earth ſeemed to weep, to carry on the cele<g ref="char:EOLhyphen"/>bration of his moſt honourable parents funerals.</p>
+            <p>The ſun is again entred <hi>Cancer,</hi> and we mourning. It is Gods harveſt time, &amp; he hath taken the tithe, whether we wil or no.</p>
+            <p>His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he acted a while under Artiſts at home, which could both give him the ſunny ſide of the garden, and with fine reflecting glaſses ripen him; and we well know, that his vaſt memory, ſudden apprehenſion, fine expreſſion, refined judgment, &amp;c. muſt needs place him in the firſt Claſſis of Gentlemen. But leſt our coal or turfe ſmoake, ſhould be thought equally ſweet, with the cryed up frankincenſe of o<g ref="char:EOLhyphen"/>ther countreys, he paſses that neck of ſea that cuts the head of <hi>England,</hi> from the body of <hi>Europe;</hi> where his tongue ſo quaintly reliſhes the honyed language of the <hi>French,</hi> that it makes mee thinke, that though our Bees make hony the ſame way, yet theirs have more flowers of Rhetorick.</p>
+            <p>His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may ſhow you his returned ſtate, when his na<g ref="char:EOLhyphen"/>turall Father leaving him, he findes quickly a political to ad<g ref="char:EOLhyphen"/>here to, and with that Veſtall zeal, that reſolved conſtancy, that all other tyes, nay his houſes and lands, nay his life muſt a while ſtand under ſequeſtration. Mercifull heart, thy ſta<g ref="char:EOLhyphen"/>bles and ſtudies, thy horſes and houſes plundered, whileſt ma<g ref="char:EOLhyphen"/>ny of thine enemies owe their houſes, their lives to thee! Few
+<pb n="21" facs="tcp:45723:13"/>Gentlemen in <hi>Oxford</hi> gave more groats then he ſhillings, and that to his foes ſometimes as well as his friends, knowing that when their ſins were greater, <hi>Calice</hi> would be wonne a<g ref="char:EOLhyphen"/>gain. It was here that he made choice of his Vertuous and choice Lady, where al that cenſure him ſay; his aim was rather to joyn man and wife than houſe to houſe. His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be<g ref="char:EOLhyphen"/>gan at his ſad coming hither laſt year. And ſince his late King dy'd, he lived only as headleſſe bodies do, in ſome ſtrugles of <hi>forma corporeitat is:</hi> &amp; now you plainly ſee, that the King was indeed the breath of his mother; or like to that of <hi>Pſal.</hi> 131.2. <hi>My ſoul is even as a weaned child.</hi> Bleſſed Lord, thou haſt given me fair and full breaſts to live on, yet ſo much worm<g ref="char:EOLhyphen"/>wood withall makes me nauſeat the nibble. The Croſſe of Chriſt, like the Mathematicians point, begins and ends the line of our learning and life.</p>
+            <p>It was juſt two months before that Sabbath (on which I hope he began his eternall Sabbath in heaven) when after a week ſpent in continuall prayers and preparation, he incorpo<g ref="char:EOLhyphen"/>rates himſelf into the body of Chriſt in that ſacred Ceremo<g ref="char:EOLhyphen"/>ny (ſo much ſlighted) of his own inſtitution, after the form of the Church of <hi>England,</hi> yea notwithſtanding much bodily indiſpoſition in the ſacred place. Pious ſoul, I fear'd, that the cold aſſembling, the clowniſh behaviour, the non-ſenſe devo<g ref="char:EOLhyphen"/>tion uſed there, had quite frighted thee away from thence long ſince: ſo that as we ſee in heavy bodies, the neerer they approach to their center, the more ſpeedily they haſt to it, ſo penſive ſouls, the neererthey draw to God the faſter they go to God: ſo that though ever before he did converſe with the Lord in prayer twice or thrice daily, yet now as aiming at the Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he has been obſerved to have trebled that thrice and more, nay leaſt <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> devotion ſhould be dryed
+<pb n="22" facs="tcp:45723:14"/>up or not grow, he uſed to water it with clouds of tears, ſurely of tears from Heaven: and now how is it poſſible, for malice not to give way for me to ſpeak, what was ſaid of once-wick<g ref="char:EOLhyphen"/>ed St. <hi>Auguſtine,</hi> A ſon of ſo many tears can't periſh.</p>
+            <p>Yet becauſe our love to man is the Index of our love to God, oft, oft did he beg of the Lord that he might live to do that good which either he had hitherto omitted; or his eſtate not permitted: Weep <hi>Charlcote,</hi> weep you ſiſter towns; weep <hi>Hampton,</hi> thy annuall commings in, muſt have gone only to make thy poors goings out, and comings in to bleſs the Lord for him. Weepe <hi>Highcleere,</hi> thy barren hill knows what it is to have him to water thee. How oft did he ſend ſecretly to enquire what poore were at his gates? And then how oft ſend meat and money ſecretly, whereby the hungry ſoule might be ſatisfied?</p>
+            <p>And now <hi>Elias</hi>-like he cries, take away my'life; yet flies the <hi>Iezebel,</hi> that would have taken it; becauſe he would not that death ſhould take it till the Lord that gave it, was willing to receive it, inſomuch that when he went to Bath, he ſaid plainly he went to Bath to dye: ſo he bathes himſelf in thoſe minerall waters and dyes. So having bathed himſelfe in the bloud of Chriſt, he lives; and to ſay all, Had not the malig<g ref="char:EOLhyphen"/>nancy of conjunctions above and diviſions below, had not the goodneſs of God and the wickedneſs of man, in all this ſtage been predominant, that lending his clock wheels, and this weights, his dayes had not been ſo ſhort, his houre ſo ſoon.</p>
+            <p>This is the graſſineſs, this the glaſſineſs of all humane things. On this ground it was that <hi>Ptolomee</hi> raiſed that glaſ<g ref="char:EOLhyphen"/>ſie tombe to Great <hi>Alexander:</hi> yet me thinks I may com<g ref="char:EOLhyphen"/>plain with St. <hi>Auguſt. Sivitrei eſſemus, &amp;c.</hi> If we were glaſs, we ſhould not be ſo eaſily broken. A glaſs may be kept from breaking ſome hundreds <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ears, but at threeſcore and ten
+<pb n="23" facs="tcp:45723:14"/>begins mans fall. Alas! he has made a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and muſt dy, he has a dying principle within him, a ſpark of naturall heat, which being outed, we are but aſhes. Oh when we only dreſs our ſelves by our own glaſs, and not by the Goſpel, <hi>Iam.</hi> 1.23, 25. conſider only how green, how ſpacious our Sea is, and not how deep, how dangerous: how ſhining our Cryſtall, and not how tranſparent, how hard our glaſs is, and not how brittle, our Sun knows no Eclipſe, no ſet. But when in the free Law of Chriſt we take our dimenſions, our Sea is Glaſs, our Glaſs is aſhes, our Cryſtall is Ice. In earth we are duſt, in the Water a buble, in the Air a vapour, in the Fire ſmoak, in the Light a ſhadow. Well, ſince we are no better, but a ſha<g ref="char:EOLhyphen"/>dow, <hi>Pſal.</hi> 102.11. Oh then follow you the gre at Sun of Heaven, the truth, for though; all men are ſaid to be lyars, yet men of high degree, <hi>Pſal.</hi> 62.9. are in the Abſtract, a lye. And ſuch a viall of bloud, ſuch a weak glaſs of nature is this, which it hath pleaſed God ſhould at laſt come thus broken home.</p>
+            <p>Moſt honoured Sir, pardon me, and give me leave to ſpeak one word to you, you ſuccenturiate him. I ſee many mourners followers of this Herſe with tears that are not here. 1. Poor hungry bowells, they are the Lord treaſury: caſt in thither your mites, at leaſt your ſuperfluities, they are Chriſtian Sa<g ref="char:EOLhyphen"/>crifices. He that ſlights Bullocks and Rams, accepts a peece of bread, he that ſlights rivers of Oil, diſdains not a cup of cold water. 2. Orphans, widows, thoſe hope to have you a Father to them, theſe an husband, they are the teſt of your Religion, <hi>Iam.</hi> 1. <hi>ult.</hi> deſpiſe not the ſighings of theſe poor, deſtitute, and helpleſs, that ſit alone on the houſe tops. 3. Vertues divine, morall, all mourners, as the times go, and beg ſome countenance from you and from this honorable preſence. So he that can raiſe bodies will raiſe your Eſtate, he that can curſe and ravell and crumble an eſtate, will bleſs, will in<g ref="char:EOLhyphen"/>creaſe yours.</p>
+            <pb n="24" facs="tcp:45723:15"/>
+            <p>And then here needs no tears to embalm this Corps, no ſheet to ſhrowd him; we ſhall all wind him up in a white clean memory; and for his humane frailties, let this black coffin, and that dark vault lock them up for ever. Nay, then weep not <hi>Charlcote,</hi> let not <hi>Charlcote</hi> bee made an Hadadrimmon. Weep not his countrey, he hath added to it a loyall name. Let it bewail her <hi>Abſalons</hi> that dy in Paricide, &amp;c. when ſhe ſhall ſee thoſe tame ridden mules leave them dangling (like thoſe harpes <hi>Pſal.</hi> 137.2.) in the trees; it need not lament her innocent dead children. But I have been too long <hi>I</hi> fear con<g ref="char:EOLhyphen"/>verſing in this lower world, let us now addreſſe our ſelves to the upper.</p>
+            <p>
+               <hi>Mereifull Lord, we now come to dip our buckets in thee the only boundleſs, only bottomleſs Ocean of Mercy: Oh let every one according to the ſeverall meaſure and capacity of the veſ<g ref="char:EOLhyphen"/>ſels wee bring, draw life (grace, glory) out of thee. Though in Adam thou haſt made us all mortall, yet in Chriſt, through the death of Chriſt haſt revived us; and when thou drankeſt that cup of trembling for us, didſt ſwallow down death and all, and brokeſt open the priſon gates of the grave, ſo that wee are all priſoners of hope, raiſe us here from ſin to grace, that thou maiſt hereafter raiſe us from the grave to glory, that here and ever all glory, power, majeſty, may be aſcribed to thee the only true God, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45723:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
